@@ -13,7 +13,6 @@ li {
     list-style: none;
 }
 
-/* website styles */
 
 header {
     background: #888;
@@ -49,12 +48,15 @@ main {
     margin: 30px auto;
 }
 
+main h2{
+    float: center;
+    
+}
 #spotlight {
-    width: 100%;
     display: inline-block;
     margin: 30px auto;
-    padding-inline-start: 10px;
-    padding-inline-end: 10px;
+    height: 400px;
+    width: 300px;
 }
 
 main li {
