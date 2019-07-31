@@ -50,7 +50,7 @@ main {
 
 main h2{
     text-align: center;
-    Color: rgb(90, 0, 0);
+    Color: rgb(0, 14, 90);
     
 }
 
@@ -62,7 +62,7 @@ main h2 ul{
     height: 400px;
 }
 
-main h2 ul li{
+body main h2 ul #spotlight li{
     width: 300px;
     height: 400px;
 }
