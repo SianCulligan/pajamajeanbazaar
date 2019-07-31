@@ -52,6 +52,7 @@ main {
 #spotlight {
     width: 100%;
     display: inline-block;
+    margin: 30px auto;
 }
 
 main li {
