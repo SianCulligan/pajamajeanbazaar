@@ -51,6 +51,7 @@ main {
 
 #spotlight {
     width: 100%;
+    display: inline-block;
 }
 
 main li {
