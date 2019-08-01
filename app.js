@@ -1,6 +1,5 @@
-var nameNow = prompt('What is your first name (please be Brian)?');
+var nameNow = prompt('What is your first name? I sure hope its Brian.')
 var greeting;
-
 
 
 if (nameNow = Brian) {
