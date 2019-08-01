@@ -1,11 +1,14 @@
-var nameNow = prompt('What is your first name? I sure hope its Brian.')
+var hourNow = prompt('what is the current hour?');
 var greeting;
 
-
-if (nameNow = Brian) {
-    greeting = 'What up cozy pants!?';
+if (hourNow > 18) {
+    greeting = 'good evening';
+} else if (hourNow > 12) {
+    greeting = 'good afternoon';
+} else if (hourNow > 0) {
+    greeting = 'good morning';
 } else {
-    greeting = 'Hello person that is not Brian'
+    greeting = 'welcome to class'
 }
 
 alert(greeting + ' brian');
