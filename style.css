@@ -19,12 +19,16 @@ header {
     height: 100px;
 }
 
+main {
+background: darkgray
+
+}
 h1 {
     float: left;
     margin-left: 20px;
     margin-right: 50px;
     color: #fff;
-    text-shadow: 1px 1px 1xp 1px red;
+    text-shadow: 1px 1px 1xp 1px rgb(0, 0, 0);
 }
 
 nav li {
