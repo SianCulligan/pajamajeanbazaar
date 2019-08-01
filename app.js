@@ -1,11 +1,11 @@
-var nameNow = prompt('What is your name? I sure hope its Brian.');
+var getName = prompt('What is your name? I sure hope its Brian.');
 var greeting;
 
-if (nameNow = Brian) {
+if (getName = Brian) {
     greeting = 'What up Cozy Pants?!';
-} else if (nameNow = Sian) {
+} else if (getName = Sian) {
     greeting = 'Hi Sian, thanks for writing this JS';
-} else if (nameNow = " ") {
+} else if (getName = " ") {
     greeting = 'No name? ok, thats cool';
 } else {
     greeting = 'Who even are you?'
