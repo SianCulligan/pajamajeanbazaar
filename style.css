@@ -58,6 +58,9 @@ main h2{
     
 }
 
+#list {
+    list-style: circle
+}
 main h2 ul{
     display: inline-block;
     margin-right: 50px;
